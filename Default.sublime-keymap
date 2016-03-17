@@ -1,0 +1,9 @@
+[
+    {
+        "command": "create_protocol_link", 
+        "keys": ["ctrl+alt+l"], 
+        "args":{
+            //"paste_into": "Z:\\home\\vmplanet\\web-projects\\xlist\\notes.txt"
+        }
+    }
+]
